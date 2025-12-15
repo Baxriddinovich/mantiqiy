@@ -11,19 +11,17 @@
 
 **Mantiqiy.uz** – interaktiv ta’limiy sayt bo‘lib, mantiqiy mashqlar, testlar va bilimlarni rivojlantirish resurslarini taqdim etadi.  
 
----
+
 
 ## 🖼 Loyiha
 
-| Rasm 1 | Rasm 2 | Rasm 3 |
-|--------|--------|--------|
-| ![rasm1](screen/rasm1.png) | ![rasm2](screen/rasm2.png) | ![rasm3](screen/rasm3.png) |
+![rasm1](screenshots/rasm1.png)
+![rasm2](screenshots/rasm2.png) 
+![rasm3](screenshots/rasm3.png)
+![rasm4](screenshots/rasm4.png) 
+![rasm5](screenshots/rasm5.png) 
 
-| Rasm 4 | Rasm 5 |
-|--------|--------|
-| ![rasm4](screen/rasm4.png) | ![rasm5](screen/rasm5.png) |
 
----
 
 
 
